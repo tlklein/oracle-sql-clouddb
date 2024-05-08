@@ -1,5 +1,5 @@
-# oracle-sql-clouddb
-A collection of documents and scripts for a Oracle SQL database using Oracle SQL Developer. 
+# Oracle Cloud Database
+A collection of documents and scripts for an Oracle SQL database using Oracle SQL Developer. 
 
 
 # Document Structure

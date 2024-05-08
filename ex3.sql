@@ -1,33 +1,5 @@
 /* EX 3 Queries for a Business Purpose */
 
-/* In EX 2 you inserted data into the IT asset management schema tables 
-of user jaherna42. The tasks for this exercise refer to the IT asset management
-tables belonging to user jaherna42 on the class server. 
-
-The deliverable for this exercise is a Word document named 
-ex3_lastname_firstname_section#.docx. Put your name and the exercise number 
-(EX 3) as a heading in a Word document as you begin the exercise.*/
-
-/*Here in the exercise instructions, you are prompted to (1) complete tasks, 
-(2) take screen shots that document your hands-on work and insert them into 
-the deliverable document, and/or (3) write something in the deliverable 
-document. Use a tool to capture just the portion of the screen you need to 
-document your work.
-
-Whenever you capture work with a screenshot, include your name in the 
-screenshot. This guideline applies to any screenshots you take to document your 
-hands-on work throughout the semester. You may not get credit for something if 
-you do not include your name as requested.
-
-In addition to your name and your query in your screenshot, you should include 
-some results and the All Rows Fetched: n in x.xxx seconds response from Oracle 
-SQL Developer. Make sure n is the total number of rows fetched by scrolling to 
-the end of the returned data. Include about 5 records of returned data (does 
-not have to be exactly 5) in the screenshot, but do not use a where clause 
-with num_rows to limit the number of rows retrieved. Often, it is not 
-necessary to return all the columns if that makes the screenshot have too 
-much white space on the right side.*/
-
 /*Connect to the class server using your assigned username to complete the
 tasks.*/
 

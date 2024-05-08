@@ -1,8 +1,5 @@
 /* EX 7 Database and Query Performance*/
-/* Here you will complete tasks against the tables of the IT asset management 
-schema you created in the cloud (you may use the tables belonging to jaherna42
-on the class server). Your deliverable is a Word document named 
-ex7_lastname_firstname_section#.docx. */ 
+
 
 /* Connect to your IT asset management schema in the cloud by connecting as the 
 user who owns the IT asset managment tables. Create a table based on principles 

@@ -1,0 +1,6 @@
+"CI_STATUS_CODE"	"CI_STATUS_DESCRIPTION"
+"INUSE   "	"Actively in Use by an Employee"
+"DISPOSED"	"Disposed of"
+"INREPAIR"	"In repair"
+"AVAIL   "	"Operational Available for Assignment for Use"
+"UNAVAIL "	"Not Available for Assignment for Use"

@@ -1,21 +1,6 @@
 /* EX 6 User-Defined Functions, Stored Procedures, and Triggers to Automate 
 Processes */
 
-/* The tasks for this exercise refer to the the tables of the ITAM schema that you
-instantiated in the Oracle cloud. You will perform tasks related to creating and
-using user-defined functions, stored procedures, and triggers in an information 
-system. Use your cloud database instance for all the tasks, connecting as the user
-who owns the IT asset management tables. */
-
-/*From a business perspective, user-defined functions, stored procedures, and 
-triggers could be used as part of an information system built to manage the 
-information about IT assets owned by ABCCo.*/
-
-/* The deliverable for EX 6 is a Word document with screen shots documenting 
-the creation of a function, a stored procedure, or a trigger followed by screen 
-shots verifying the function of each object. Each screen shot should contain 
-your name typed in Oracle SQL Developer in the pane where you write your code.*/
-
 
 /* EX 6 Task 1. Create and Use a Function for How Many CIs in USE 
 Code is provided to create a function that derives how many of a particular 

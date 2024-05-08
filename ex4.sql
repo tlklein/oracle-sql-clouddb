@@ -1,21 +1,5 @@
 /* EX 4 Migrate ITAM to the Cloud and Create and Enable Users */
 
-/*The deliverable for this exercise is a Word document. Put your name and the 
-exercise number (EX 4) as a header in a Word document as you begin the exercise. 
-Name the Word document ex4_lastname_firstname_section#.docx. */
-
-/*Here in the exercise instructions, you are prompted to (1) complete tasks, 
-(2) take screen shots that document your hands-on work and insert them into the 
-deliverable document, and/or (3) write something in the deliverable document. 
-Use a tool to capture just the portion of the screen you need to document your 
-work.
-
-Whenever you capture work with a screenshot, include your name in the 
-screenshot.
-This guideline applies to any screenshots you take to document your hands-on 
-work 
-throughout the semester. You may not get credit for something if you do not 
-include your name in screenshots as requested. */
 
 /* ABCCo has generally maintained and managed their own server hardware and 
 infrastructure. Your team (the one evaluating the schema for IT asset management
